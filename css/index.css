@@ -1,0 +1,7 @@
+.ul-personel-position {
+    color: black;
+    list-style-type: none;
+    margin: 10;
+    padding: 10;
+    display: flex;
+    justify-content: center;}
